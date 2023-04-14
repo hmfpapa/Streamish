@@ -67,3 +67,6 @@ C:\Users\hmflo\workspace\Streamish\obj\Debug\net5.0\refint\Streamish.dll
 C:\Users\hmflo\workspace\Streamish\obj\Debug\net5.0\Streamish.pdb
 C:\Users\hmflo\workspace\Streamish\obj\Debug\net5.0\Streamish.genruntimeconfig.cache
 C:\Users\hmflo\workspace\Streamish\obj\Debug\net5.0\ref\Streamish.dll
+C:\Users\hmflo\workspace\Streamish\bin\Debug\net5.0\client\package-lock.json
+C:\Users\hmflo\workspace\Streamish\bin\Debug\net5.0\client\package.json
+C:\Users\hmflo\workspace\Streamish\bin\Debug\net5.0\client\public\manifest.json
